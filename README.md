@@ -1,16 +1,16 @@
-# form_validation
+# Dog Registration Form 🐶  
 
-A new Flutter project.
+A simple Flutter application for dog registration, allowing users to enter a dog's name, breed, owner details, select gender, and dietary preferences.  
 
-## Getting Started
+# Features  
+- Input fields for dog's name, breed, owner name, phone number, and email  
+- Gender selection (RadioListTile)  
+- Dietary preference selection (CheckboxListTile)  
+- Form validation  
+- Submit button with a confirmation message
+- 
+# Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](assets/images/form1.jpg)
+![](assets/images/form2.jpg)
+![](assets/images/form3.jpg)
