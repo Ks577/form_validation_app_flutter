@@ -8,8 +8,11 @@ A simple Flutter application for dog registration, allowing users to enter a dog
 - Dietary preference selection (CheckboxListTile)  
 - Form validation  
 - Submit button with a confirmation message
-- 
+ 
 # Preview
 
-![](assets/images/form1.jpg) ![](assets/images/form2.jpg) 
-![](assets/images/form3.jpg)
+<p align="center">
+  <img src="assets/images/form1.jpg" width="30%" />
+  <img src="assets/images/form2.jpg" width="30%" />
+  <img src="assets/images/form3.jpg" width="30%" />
+</p>
