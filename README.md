@@ -11,8 +11,8 @@ A simple Flutter application for dog registration, allowing users to enter a dog
  
 # Preview
 
-<p align="start">
-  <img src="assets/images/form1.jpg" height="800" />
-  <img src="assets/images/form2.jpg" height="800" />
-  <img src="assets/images/form3.jpg" height="800" />
+<p align="center">
+  <img src="assets/images/form1.jpg" height="200" style="display:inline-block;"/>
+  <img src="assets/images/form2.jpg" height="200" style="display:inline-block;"/>
+  <img src="assets/images/form3.jpg" height="200" style="display:inline-block;"/>
 </p>
