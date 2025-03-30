@@ -1,4 +1,4 @@
-# Dog Registration Form 🐶  
+# Dog Registration Form 
 
 A simple Flutter application for dog registration, allowing users to enter a dog's name, breed, owner details, select gender, and dietary preferences.  
 
@@ -11,8 +11,8 @@ A simple Flutter application for dog registration, allowing users to enter a dog
  
 # Preview
 
-<p align="start">
-  <img src="assets/images/form1.jpg" height="400" style="display:inline-block;"/>
-  <img src="assets/images/form2.jpg" height="400" style="display:inline-block;"/>
-  <img src="assets/images/form3.jpg" height="400" style="display:inline-block;"/>
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="assets/images/form1.jpg" height="200" width="auto" />
+  <img src="assets/images/form2.jpg" height="200" width="auto" />
+  <img src="assets/images/form3.jpg" height="200" width="auto" />
+</div>
